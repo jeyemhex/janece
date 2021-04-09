@@ -1,2 +1,2 @@
-# Velge: Ed's Lua Game Engine
+# JANECE - Just Another NeuroEvolved Chess Engine
 A chess app written in Lua
